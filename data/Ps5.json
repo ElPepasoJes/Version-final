@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ghost of Yotei",
+    "price": 50.0,
+    "image": "imagenes/4.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 2,
+    "name": "Mortal Kombat 11",
+    "price": 50.0,
+    "image": "imagenes/5.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 3,
+    "name": "Spiderman 2",
+    "price": 50.0,
+    "image": "imagenes/6.jpeg",
+    "platform": "PS5"
+  }
+]
